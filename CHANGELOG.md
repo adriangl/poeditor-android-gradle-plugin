@@ -34,6 +34,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Security
 - No security issues fixed!
 
+## [2.0.0] - 2021-04-28
+### Changed
+- Changed repo ownership to [hyperdevs-team](https://github.com/hyperdevs-team). Thanks [bq](https://github.com/bq) for all the work!
+- Changed package names from `com.bq.*` to `com.hyperdevs.*`
+
 ## [1.4.2] - 2020-12-29
 ### Added
 - [Dotenv support](https://github.com/cdimascio/dotenv-kotlin) for the `Main.kt` file for easier local development.
@@ -243,7 +248,9 @@ res_dir_path -> resDirPath
 ### Added
 - Initial release.
 
-[Unreleased]: https://github.com/bq/poeditor-android-gradle-plugin/compare/1.4.1...HEAD
+[Unreleased]: https://github.com/bq/poeditor-android-gradle-plugin/compare/2.0.0...HEAD
+[2.0.0]: https://github.com/bq/poeditor-android-gradle-plugin/compare/1.4.2...2.0.0
+[1.4.2]: https://github.com/bq/poeditor-android-gradle-plugin/compare/1.4.1...1.4.2
 [1.4.1]: https://github.com/bq/poeditor-android-gradle-plugin/compare/1.4.0...1.4.1
 [1.4.0]: https://github.com/bq/poeditor-android-gradle-plugin/compare/1.3.1...1.4.0
 [1.3.1]: https://github.com/bq/poeditor-android-gradle-plugin/compare/1.3.0...1.3.1
